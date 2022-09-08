@@ -27,7 +27,7 @@ No library used
 
 ### Alternative solution with 3rd party library
 
-* [Dual scrren](https://pub.dev/packages/dual_screen)
+* [Dual screen](https://pub.dev/packages/dual_screen)
 
 ### Folder Structure
 
