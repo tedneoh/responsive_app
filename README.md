@@ -1,16 +1,47 @@
 # responsive_app
 
-A new Flutter project.
+A Flutter project with responsive layout
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+** Step 1:**
 
-A few resources to get you started if this is your first Flutter project:
+Download or clone this repo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+** Step 2:**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to project root and execure the following command in console to get the required dependencies:
+
+```
+flutter pub get
+```
+
+## Features
+
+* Adaptive and responsive layout
+* Adaptive text size and padding
+
+### Libraries used
+
+No library used
+
+### Alternative solution with 3rd party library
+
+* [Dual scrren](https://pub.dev/packages/dual_screen)
+
+### Folder Structure
+
+Src, sample data class
+
+```
+lib/
+|- src
+```
+
+Main.dart, This is the starting point of the application
+
+```
+lib/
+|- main.dart
+```
+
